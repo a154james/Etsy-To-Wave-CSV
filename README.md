@@ -70,15 +70,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]
-
 I created this project to help people convert their Etsy exported monthly statements into a format that Wave Accounting will accept.
 
 This form currently supports: Sales, Fees, Refunds, Account Deposits.
 
 Donate Below if this project has helped you!
-<li></li>
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](pantamorphtech@gmail)
+<p></p>
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](pantamorphtech@gmail)}]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
