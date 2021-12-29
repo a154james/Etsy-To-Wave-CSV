@@ -39,11 +39,6 @@
   <p align="center">
     A tool to convert the exported monthly CSV from Etsy into a format that Wave Accounting can upload.
     <br />
-    <a href="https://github.com/a154james/Etsy-To-Wave-CSV"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/a154james/Etsy-To-Wave-CSV">View Demo</a>
-    ·
     <a href="https://github.com/a154james/Etsy-To-Wave-CSV/issues">Report Bug</a>
     ·
     <a href="https://github.com/a154james/Etsy-To-Wave-CSV/issues">Request Feature</a>
@@ -62,15 +57,7 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -90,16 +77,11 @@ I created this project to help people convert their Etsy exported monthly statem
 This form currently supports: Sales, Fees, Refunds, Account Deposits.
 
 Donate Below if this project has helped you!
+<li></li>
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](pantamorphtech@gmail)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
 
 <!-- USAGE EXAMPLES -->
@@ -151,8 +133,6 @@ Don't forget to give the project a star! Thanks again!
 
 <!-- CONTACT -->
 ## Contact
-
-James B - [@](https://twitter.com/) - @_client.com
 
 Project Link: [https://github.com/a154james/Etsy-To-Wave-CSV](https://github.com/a154james/Etsy-To-Wave-CSV)
 
