@@ -53,9 +53,6 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
@@ -75,8 +72,9 @@ I created this project to help people convert their Etsy exported monthly statem
 This form currently supports: Sales, Fees, Refunds, Account Deposits.
 
 Donate Below if this project has helped you!
-<p></p>
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](pantamorphtech@gmail)}]
+<br></br>
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](pantamorphtech@gmail)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
